@@ -16,5 +16,3 @@ Explore feature engineering and model tuning to improve performance.
 Consider threshold adjustments, ensemble methods, and cost-sensitive learning.
 Implement regular monitoring and retraining to maintain model efficacy over time.
 
-
-predictions.csv(shareable link):http://localhost:8978/lab/tree/predictions2.csv
